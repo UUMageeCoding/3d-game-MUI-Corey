@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ecec9226167ad6a449f4f1b112b740b3
+guid: 75ad9debf488610499fa7748f233eaaf
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -95,10 +95,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Characters/LowPoly/FREE_HumanLowPoly/Meshes_Humans/ArmorMeshes_Humans/StarterArmor_HumanMale.fbx
-  uploadId: 494280

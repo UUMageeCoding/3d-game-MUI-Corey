@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7f10f6ce81a34824a9cd2746ad0b82ff
+guid: 2d31d576b621a3346b5e04caf225d3b1
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Movement/JumpWhileRunning.fbx
-  uploadId: 494280

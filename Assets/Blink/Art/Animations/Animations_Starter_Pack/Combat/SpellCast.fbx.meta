@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: afb2e0e8e5b867f49ad94f4e813c3570
+guid: 69e3e3eda51085e4dbda3551d2c326d5
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1101,10 +1101,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/SpellCast.fbx
-  uploadId: 494280

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b2377c5920b3a8b4f9e683b0edbfa8f0
+guid: 543dfb81ff0a9d24997a565208ee186b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -90,10 +90,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Characters/LowPoly/FREE_HumanLowPoly/Textures_Humans/LowPolyArmorTexture.png
-  uploadId: 494280

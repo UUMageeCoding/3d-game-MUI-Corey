@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: de13a7420582ded45a8d7d3f96889aca
+guid: 9e73030d199af444bbc2e0afef32fe5e
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -95,10 +95,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Characters/LowPoly/FREE_HumanLowPoly/Meshes_Humans/HumanMale_Character.fbx
-  uploadId: 494280

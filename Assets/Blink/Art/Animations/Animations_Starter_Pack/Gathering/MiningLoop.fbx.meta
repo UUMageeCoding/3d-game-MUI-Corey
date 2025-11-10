@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 10fa50c59af8fd440a0348904414802a
+guid: 20d200e06a051b3458487aedb903c0cd
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1039,10 +1039,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Gathering/MiningLoop.fbx
-  uploadId: 494280

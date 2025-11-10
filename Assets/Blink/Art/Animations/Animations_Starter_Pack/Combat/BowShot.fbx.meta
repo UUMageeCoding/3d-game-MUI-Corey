@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9cbb2a4d135c31e4cbeadac255ba4ecb
+guid: 7a9d577d31c3da54aabb9a1568b2fabe
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/BowShot.fbx
-  uploadId: 494280

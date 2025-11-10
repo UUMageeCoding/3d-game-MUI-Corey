@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 57d50d7ecb0231244b77aacf40cacf29
+guid: 8f05a13e230027c44bd4d356282bdea9
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1031,10 +1031,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Movement/RollBackward.fbx
-  uploadId: 494280

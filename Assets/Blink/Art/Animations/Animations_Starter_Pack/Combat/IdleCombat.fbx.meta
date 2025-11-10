@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 248146b68218df34c9ed1a14ba7a443b
+guid: 0bda3a4ca31df5a49bb107324914c1c2
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/IdleCombat.fbx
-  uploadId: 494280

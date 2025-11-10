@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d193a764e528253418a9c8161269688c
+guid: 629e29221d9ba8e48ba742c2a4ef5a67
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/PunchLeft.fbx
-  uploadId: 494280

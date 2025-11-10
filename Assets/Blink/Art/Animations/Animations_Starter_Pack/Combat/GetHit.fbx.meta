@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 83e28e7ec15604e4e936c71d31a7ebad
+guid: 1aa207ee0d8798e41b49bab104b52774
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/GetHit.fbx
-  uploadId: 494280

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3d7c10dfb76b352458c6ee3cf1acd54f
+guid: 1d01bdeadced8024c80536992285cfe9
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/MeleeAttack_OneHanded.fbx
-  uploadId: 494280

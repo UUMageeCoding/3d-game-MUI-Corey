@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a8bd4d740daa72c46bbff25e229c4ad2
+guid: 87b1ef092659ff64ab3d0f5513f396a7
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/BlockingLoop.fbx
-  uploadId: 494280

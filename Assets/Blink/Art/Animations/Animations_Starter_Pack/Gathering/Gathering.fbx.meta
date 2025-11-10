@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f946b4c12eb389240af2e7476c0a67a5
+guid: 5c0df30318408a443a1063d5bb9811a4
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1039,10 +1039,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Gathering/Gathering.fbx
-  uploadId: 494280

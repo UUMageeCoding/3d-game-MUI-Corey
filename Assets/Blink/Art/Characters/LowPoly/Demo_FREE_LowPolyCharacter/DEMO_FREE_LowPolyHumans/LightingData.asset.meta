@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: 88d61e4b5bb195a4da585dd9c8d8ea4d
+guid: 2b7523572b9b3414da8eb9117194fa8e
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Characters/LowPoly/Demo_FREE_LowPolyCharacter/DEMO_FREE_LowPolyHumans/LightingData.asset
-  uploadId: 494280

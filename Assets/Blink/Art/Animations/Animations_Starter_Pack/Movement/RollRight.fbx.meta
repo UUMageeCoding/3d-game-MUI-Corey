@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 50e0d5f0490eb5a45b0b5952db236f7d
+guid: efd72149808c9e445997cbd9697346f2
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1041,10 +1041,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Movement/RollRight.fbx
-  uploadId: 494280

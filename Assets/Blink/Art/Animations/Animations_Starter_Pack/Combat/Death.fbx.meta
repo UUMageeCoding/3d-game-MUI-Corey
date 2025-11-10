@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6d63f48bf2bc2e64a9295d5b1a4b44bf
+guid: d757b98b7a0c3564cb3049afa1c82053
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1034,10 +1034,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 219979
-  packageName: FREE Low Poly Human - RPG Character
-  packageVersion: 1.0
-  assetPath: Assets/Blink/Art/Animations/Animations_Starter_Pack/Combat/Death.fbx
-  uploadId: 494280
